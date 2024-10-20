@@ -1,10 +1,13 @@
 # Sales Data Analysis
 
 Sales Data Analysis Dashboard
+
 Project Documentation
 
 Company Name: Afame Technologies
+
 Project Overview
+
 This project aims to analyze sales data, providing insights into product performance, regional sales, and sales forecasting. The dashboard helps Afame Technologies make data-driven decisions by understanding sales patterns and forecasting future trends.
 
 Steps Involved :
