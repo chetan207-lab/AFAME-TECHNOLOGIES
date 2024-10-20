@@ -1,7 +1,11 @@
 # HR Data Analysis Dashboard
 
 HR Data Analysis Dashboard Documentation
+
+Company Name: Afame Technologies
+
 Project Overview:
+
 This HR Data Analysis Dashboard provides insights into employee attrition, showcasing trends by age, gender, education, salary, and job role. The purpose is to help the HR department better understand attrition patterns, thereby aiding in employee retention and workforce management.
 
 Steps Involved:
